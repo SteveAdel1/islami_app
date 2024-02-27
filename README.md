@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+in this app you will find 
+1-hadeth feature(كل احاديث الرسول ص)
+2-quran feature(القران الكريم)
+3-sebha feature (خاصية التسبيح)
+4-radio feature(راديو القران الكريم)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
